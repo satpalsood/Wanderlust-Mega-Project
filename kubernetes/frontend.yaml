@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: satpalsood/wanderlust-mega-frontend:latest
+          image: satpalsood/wanderlust-frontend-beta:v2
           ports:
             - containerPort: 5173
 ---
